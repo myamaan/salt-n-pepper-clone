@@ -1,0 +1,87 @@
+/* background colors started*/
+
+:root {
+    --black:#000000;
+    --white:#ffffff;
+    --green:#00a659;
+    --gray:#757575;
+    --red:#f02520;
+}
+.bg-black {
+    background-color: var(--black);
+}
+.bg-white {
+    background-color: var(--white);
+}
+.bg-green {
+    background-color: var(--green);
+}
+.bg-gray {
+    background-color: var(--gray);
+}
+.bg-red {
+    background-color: var(--red);
+}
+
+/* background color ended */
+
+
+/* text colors started */
+
+.text-black {
+    color: var(--black);
+}
+.text-white {
+    color: var(--white);
+}
+.text-green {
+    color: var(--green);
+}
+.text-gray {
+    color: var(--gray);
+}
+.text-red {
+    color: var(--red);
+}
+
+/* text color ended */
+
+.d-flex {
+    display: flex;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.justify-evenly {
+    justify-content: space-evenly;
+}
+.justify-arround {
+    justify-content: space-around;
+}
+.justify-start {
+    justify-content: start;
+}
+.justify-center {
+    justify-content: center;
+}
+.justify-end {
+    justify-content: end;
+}
+.flex-wrap {
+    flex-wrap: wrap;
+}
+.gap-10 {
+    gap: 10px
+}
+.gap-15 {
+    gap: 15px
+}
+.gap-20 {
+    gap: 20px
+}
+.gap-25 {
+    gap: 25px
+}
+.gap-30 {
+    gap: 30px
+}
