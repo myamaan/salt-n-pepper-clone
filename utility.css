@@ -70,6 +70,11 @@
 .flex-wrap {
     flex-wrap: wrap;
 }
+
+.text-style-0 {
+    text-decoration: none;
+}
+
 .gap-10 {
     gap: 10px
 }
@@ -84,4 +89,18 @@
 }
 .gap-30 {
     gap: 30px
+}
+.gap-50 {
+    gap: 50px;
+}
+
+.item-center {
+    align-items: center;
+}
+.border {
+    border: 1px solid var(--white);
+}
+.rounded {
+    border-radius: 30px;
+    cursor: pointer;
 }
