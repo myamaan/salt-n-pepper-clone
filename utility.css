@@ -97,10 +97,22 @@
 .item-center {
     align-items: center;
 }
+
 .border {
     border: 1px solid var(--white);
 }
 .rounded {
     border-radius: 30px;
     cursor: pointer;
+}
+
+.paddingtop-15 {
+    padding-top: 15px;
+}
+
+.padd-left {
+    padding-right: 100px;
+}
+.text-center {
+    text-align: center;
 }
