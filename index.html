@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,20 +8,21 @@
     <link rel="stylesheet" href="./style.css">
     <link rel="stylesheet" href="./utility.css">
 </head>
+
 <body class="bg-black">
-   <!-- navbar started  -->
+    <!-- navbar started  -->
     <header class="navbar d-flex justify-arround item-center flex-wrap">
-       
+
         <div>
             <img src="./assets/65b73fb7-2706-4440-87b9-9555fcd0ba80.webp" alt="logo" width="160px">
         </div>
-        <nav class="nav-item d-flex gap-50 item-center">
+        <nav class="nav-item d-flex gap-50 item-center flex-wrap">
 
             <a class="text-style-0 text-white paddingtop-15" href="">Home</a>
             <a class="text-style-0 text-white paddingtop-15" href="">About Us</a>
             <a class="text-style-0 text-white paddingtop-15" href="">Publications</a>
-            <button class="franchise-btn border rounded text-white" >Get a Franchise</button>
-            <button class="order-btn  rounded text-white bg-red">Order Online 
+            <button class="franchise-btn border rounded text-white flex-wrap">Get a Franchise</button>
+            <button class="order-btn  rounded text-white bg-red flex-wrap">Order Online
                 <span><i class="fa-solid fa-arrow-right order-arrow text-red bg-white"></i></span>
             </button>
         </nav>
@@ -29,12 +31,24 @@
     <main>
         <!-- carousel area started -->
         <img src="./assets/d47575d1-42d9-43f7-84b2-f11adea5f8eb.webp" alt="carousel-image" class="carousel">
-        <h2 class="text-white text-center">Welcome to Salt'n Pepper <br>
+        <h2 class="text-white text-center">Welcome to <span class="logo-snp">Salt'n Pepper</span><br>
             Restaurants! Our Brands
-
         </h2>
+        <p class="text-center text-white para-1">Please click our brands below for further information, reservations or
+            to order online!</p>
+        <div class="container flex-wrap">
+            <div class="box-1 bg-white"> <img src="./assets/main-1.webp" alt="" class="main-imgs"></div>
+            <div class="box-1 bg-white"> <img src="./assets/main-2.webp" alt="" class="main-imgs"></div>
+            <div class="box-1 bg-white"> <img src="./assets/main-3.webp" alt="" class="main-imgs"></div>
+        </div>
+        <div class="order-now">
+            <div class="btn-now"><button class="btn-now-1">Order Now</button></div>
+            <div class="btn-now"><button class="btn-now-1">Order Now</button></div>
+            <div class="btn-now"><button class="btn-now-1">Reserve a Table</button></div>
+        </div>
         <!-- carousel area ended -->
     </main>
     <script src="https://kit.fontawesome.com/0ce5139876.js" crossorigin="anonymous"></script>
 </body>
+
 </html>
