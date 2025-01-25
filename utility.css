@@ -128,9 +128,12 @@
 .text-start {
     text-align: start;
 }
-.font-3 {
-    font-size: 3rem;
+.font-2 {
+    font-size: 2rem;
 }
 .align-center {
     align-items: center;
+}
+.font-3 {
+    font-size: 3rem;
 }
