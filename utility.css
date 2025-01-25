@@ -116,3 +116,21 @@
 .text-center {
     text-align: center;
 }
+.no-style {
+    text-decoration: none;
+}
+.mt-80 {
+    margin-top: 80px;
+}
+.mt-0 {
+    margin-top: 0px;
+}
+.text-start {
+    text-align: start;
+}
+.font-3 {
+    font-size: 3rem;
+}
+.align-center {
+    align-items: center;
+}

@@ -35,6 +35,10 @@ html {
     font-family: poppins;
     src: url(./fonts/Poppins/Poppins-Regular.ttf);
 }
+@font-face {
+    font-family: futurak;
+    src: url(./fonts/futurak.ttf);
+}
 
 .order-arrow {
     padding: 6px 7px;
@@ -58,7 +62,7 @@ h2 {
 }
 
 .logo-snp {
-    font-family: poppins;
+    font-family:futurak ;
     font-style: normal;
     font-weight: 400;
     font-size: 5.2rem;
@@ -126,9 +130,9 @@ h2 {
 }
 
 .logo-snp-2 {
-    font-family: poppins;
+    font-family: futurak;
     font-style: normal;
-    font-weight: 800;
+    
     font-size: 5.2rem;
     line-height: 62px;
     color: #FFFFFF;
@@ -152,9 +156,9 @@ h2 {
 }
 
 .logo-snp-3 {
-    font-family: poppins;
+    font-family: futurak;
     font-style: normal;
-    font-weight: 900;
+    
     font-size: 4rem;
     line-height: 62px;
     color: #FFFFFF;
@@ -176,9 +180,91 @@ h2 {
     border: 0px;
     font-size: 14px;
     border: 1px solid var(--white);
+    
 
 }
 
 .direction-btn:hover {
     background-color: var(--gray);
 }
+
+.container-5 {
+    text-align: center;
+    margin-top: 50px;
+}
+.para-3 {
+    font-family: poppins;
+    font-size: 5rem;
+}
+.container-6 {
+    font-size: 2.4rem;
+    margin-top: 60px;
+    
+    
+}
+.logo-snp-4 {
+    font-family: futurak;
+    font-style: normal;
+    font-weight: 150;
+    font-size: 2.4rem;
+    line-height: 62px;
+    color: #FFFFFF;
+   text-align: center;
+
+}
+#para-1 {
+    font-size: 1.2rem;
+}
+.direction-btn-2 {
+    padding: 15px 25px;
+    border: 0px;
+    font-size: 14px;
+    border: 1px solid var(--white);
+    margin: 50px 0px 0px 100px;
+}
+.box-2 {
+    font-size: 1.2rem;
+}
+
+.logo-snp-5 {
+    font-size: 5.2rem;
+    font-family: futurak;
+    font-weight: 400;
+
+}
+
+.h2-01 {
+    font-size: 4.8rem;
+}
+.p-01 {
+        font-size: 1.8rem;
+        margin-left: 30px;
+        
+        
+}
+.logo-snp-6 {
+    font-size: 3rem;
+    font-family: futurak;
+    font-weight: 200;
+}
+.direction-btn-3 {
+    padding: 15px 25px;
+    border: 0px;
+    font-size: 14px;
+    margin: 50px 0px 0px 30px;
+}
+.container-7 {
+    margin-top: 150px;
+}
+.s-1 {
+    font-size: 2rem;
+}
+
+.container-9 {
+    font-size: 9rem;
+}
+    
+
+
+
+
