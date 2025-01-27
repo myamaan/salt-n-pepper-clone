@@ -2,13 +2,17 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    /* font-family: poppins; */
+
+}
+.poppins {
     font-family: poppins;
 
 }
 
 html {
     font-size: 62.5%;
-    height: 10000px;
+    /* height: 7600px; */
 }
 
 .franchise-btn {
@@ -296,7 +300,41 @@ h2 {
           
 }
   
-    
+.container-11 {
+   
+    background-color: #0f0f0f;
+    height: 700px;
+    width: 100%;
+    margin-top: 60px;
+    padding: 10px 20px;
+}
+.box-6 {
+    text-align: left;
+    padding: 10px 50px;
+   width: 500px;
+   font-size: 1.3rem;
+   margin: 0px 0px;
+   margin-top: 50px;
+
+}
+.box-7 {
+    text-align: left;
+    margin-top: 50px;
+    font-size: 1.5rem;
+    padding: 20px 50px;
+
+}
+
+.store-arrow {
+    padding: 6px 7px;
+    border-radius: 23px;
+    font-size: 2.5rem;
+}
+.footer {
+    font-size: 1.5rem;
+}
+  
+
 
 
 

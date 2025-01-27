@@ -128,6 +128,9 @@
 .text-start {
     text-align: start;
 }
+.text-left {
+    text-align: left;
+}
 .font-2 {
     font-size: 2rem;
 }
@@ -136,4 +139,22 @@
 }
 .font-3 {
     font-size: 3rem;
+}
+.no-style-list {
+    list-style: none;
+    
+}
+.gray-border {
+    border: 1px solid gray;
+}
+.p-50 {
+    padding:0px 50px;
+  
+}
+
+.mx-300 {
+    margin: 0px 300px;
+}
+.font-1 {
+    font-size: 1rem;
 }

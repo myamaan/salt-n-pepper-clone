@@ -1,0 +1,31 @@
+@font-face {
+    font-family: butler;
+    src: url(./fonts/butler/Butler/Butler_Black.otf);
+}
+.about-cont-1 {
+    font-size: 2.2rem;
+    margin-top: 100px;
+   margin-left: 250px;
+   margin-right: 250px;
+
+}
+
+.ab-h1 {
+    font-family: butler;
+    font-size: 5rem;
+}
+.ab-para {
+    padding: 0px 300px;
+    font-size: 1.6rem;
+   
+   
+}
+.about-cont-2 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: -40px;
+   
+}
+.iop {
+    width: 300px;
+}
