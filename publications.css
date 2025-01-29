@@ -1,0 +1,18 @@
+
+.publications-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    gap: 30px;
+    margin-top: 50px;
+}
+.publications-box {
+    border: 1px solid #ffffff52;
+    border-width: 1px 1px 1px 1px;
+    
+}
+.publication-list-item {
+    font-size: 1.5rem;
+}
